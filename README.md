@@ -1,2 +1,2 @@
-# Los-detonados-copete
-Tecnicoop era un mejor nombre
+# Backend Página Web Principal Tecnicop
+##
